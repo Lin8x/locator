@@ -19,8 +19,8 @@ Usage of Locator for attacking targets without prior mutual consent is illegal. 
 
 ------------------------------------------------------------------------
 
-Geolocator, Ip Tracker, Device Info by URL (Serveo and Ngrok).
-It uses tinyurl to obfuscate the Serveo link.
+*Geolocator, Ip Tracker, Device Info by URL (Serveo and Ngrok).* <br>
+*It uses tinyurl to obfuscate the Serveo link.*
 
 ![loc](https://user-images.githubusercontent.com/34893261/43586620-7a766f4a-963e-11e8-8a47-5ff4039fbda0.png)
 
